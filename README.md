@@ -1,16 +1,20 @@
-## Hi there 👋
+## Who Am I?
 
-<!--
-**joaquiniglesiasm/joaquiniglesiasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm **Joaquin Iglesias** — by day, I'm a **Senior Content Engineer I** at **Hack The Box**, where I craft immersive cybersecurity challenges and educational content.
 
-Here are some ideas to get you started:
+I also volunteer as **CTF Lead** for **Infosec Battle Bots** and **BSides Newcastle**, organizing and building the main CTF events.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I’m not hacking or building labs, you’ll find me:
+- 👨‍🍳 Cooking new recipes  
+- 🎶 Vibing to dark melodic music  
+- ☕ Sipping coffee or energy drinks  
+- 🐱 Hanging with my cats  
+- 🏎️ Geeking out over drift cars  
+- 🍞 Baking or crafting the perfect pizza dough or croissaints...croisings?.....YOU KNOW WHAT I MEAN!!!
+
+### Connect With Me
+
+- [Twitter](https://x.com/intelbrew)
+- [LinkedIn](https://www.linkedin.com/in/joaquiniglesiasm/)
+
+"Security. Speed. Homemade food. That’s the holy trinity."
